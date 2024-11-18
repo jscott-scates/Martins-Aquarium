@@ -1,0 +1,16 @@
+
+main {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    gap: 20px;
+}
+#fishList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+#locationList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
